@@ -1,0 +1,15 @@
+{
+  "name": "flavourbites-with-html-and-tailwind-css",
+  "version": "1.0.0",
+  "description": "This is project that shows to build a recipe list page using html and tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build -i src/styles.css -o public/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
