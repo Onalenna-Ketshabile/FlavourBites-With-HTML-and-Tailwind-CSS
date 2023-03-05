@@ -1,2 +1,2 @@
 # FlavourBites-With-HTML-and-Tailwind-CSS
-This is project that shows to build a recipe list page using html and tailwind css
+This project demonstrates how to create a recipe list page using HTML and Tailwind CSS. The project showcases the use of various Tailwind utility classes to create a modern and responsive layout, while keeping the HTML markup clean and semantic. Whether you're new to Tailwind CSS or just looking for inspiration on how to build a recipe page, FlavourBites is a great resource to get started.
